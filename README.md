@@ -1,1 +1,3 @@
-This is a collection of work related to The Odin Project.
+# Recipes Project
+
+This is a project that shows skills in writing clean HTML. For example sake, we will be providing some recipes. Enjoy!
